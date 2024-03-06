@@ -1,2 +1,4 @@
 # World-Happiness-Report-for-2015-2019
-World Happiness Report for 2019
+## World Happiness Report for 2019
+This files are from 2015 to 2019. I decided to to focus on the latest one - 2019 instead of the previous ones. The 2019 do not include the **Region** column! I had to follow a different approach. I searched for “list of countries in REGION NAME” and attempted to filter the data as per the list I created. A few countries are classified in more than one regions but this did not affect the outcome of the analysis. 
+The results for Africa is a cause for concern. Folks from Africa would agree with me that some countries in the top 10 do not actually belong there! Same holds for some countries at the bottom. Seeing a country like **Rwanda** at the bottom is disturbing! Data scientists are not suppose to argue with data, they simply dig for the truth out of data. **I find it hard to sell this result with Rwanda at the bottom as the truth**. At the end of my analysis I determined and plotted the **correlation of the indicators with the happiness score**. Based on this **I still can’t confidently rank Rwanda at the bottom** or some countries at the top.
